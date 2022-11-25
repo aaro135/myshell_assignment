@@ -1,7 +1,7 @@
 # myshell
 
 简单的shell解释器，作业。<br>
-照着CSDN上的一些代码写的。<br>
+照着CSDN上的一些代码拼凑版本。<br>
 首先程序循环运行，不停读取用户输入。<br>
 读取输入后，拆分输入字符串为命令和选项。<br>
 判断命令是内部方法还是外部方法。<br>
@@ -39,8 +39,8 @@ quit,exit,bye   退出 shell。
 -----------------------
 ```
 
-![image-20221125185447894](/home/caigou/.config/Typora/typora-user-images/image-20221125185447894.png)
+![image-20221125185447894](./img/1.png)
 
-![image-20221125185523595](/home/caigou/.config/Typora/typora-user-images/image-20221125185523595.png)
+![image-20221125185523595](./img/2.png)
 
 
