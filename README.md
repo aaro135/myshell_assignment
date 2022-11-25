@@ -39,8 +39,8 @@ quit,exit,bye   退出 shell。
 -----------------------
 ```
 
-![image-20221125185447894](./img/1.png)
+![image1](./img/1.png)
 
-![image-20221125185523595](./img/2.png)
+![image2](./img/2.png)
 
 
