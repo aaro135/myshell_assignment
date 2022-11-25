@@ -1,0 +1,3 @@
+/home/caigou/CLionProjects/myshell/CMakeFiles/myshell.dir
+/home/caigou/CLionProjects/myshell/CMakeFiles/edit_cache.dir
+/home/caigou/CLionProjects/myshell/CMakeFiles/rebuild_cache.dir
